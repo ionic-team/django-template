@@ -1,4 +1,4 @@
-django-template
-===============
+cordova-splash-generator
+========================
 
-A starter django project with staticfiles, templates, and urls configured
+Generates cordova/phonegap splash screen images for multiple platforms given a logo and background color/image.
